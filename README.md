@@ -1,2 +1,2 @@
-# My-First-Tableau-Dashboard
+# My-Tableau-Dashboard
 Superstore Dashboard in Tableau
